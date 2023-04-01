@@ -6,7 +6,7 @@ const Watch = ({segundo1, segundo2, minuto1, minuto2, hora}) =>{
         
         <nav className="navbar-brand bg-body-tertiary d-flex fs-1">
             
-            <div className="container-fluid d-flex">
+            <div className="container-fluid d-flex justify-content-center">
                 <div className="nav-item">
                     <span className="badge text-bg-dark"><i class="far fa-clock"></i></span>
                 </div>
